@@ -1,7 +1,7 @@
 # DENG_TCSVT
 Subjective-driven Complexity Control Source Code
 
-The software code is for the paper "Subjective-driven Complexity Control Approach for HEVC". Before you run the code, you need to set some values in the code according to your needs.
+The software code is for the paper "Subjective-driven Complexity Control Approach for HEVC". The original code in the paper is in HM 14.0, and we carefully transplant it to HM 16.0 for the convenience of your comparing. Before you run the code, you need to set some values in the code according to your needs.
 
 1. TEncTop.cpp 
 In line 1183 and 1184, you need to set the width and height of the test video. The resolutions suppoerted in this code include 1920x1080, 1280x720, and 832x480. 
